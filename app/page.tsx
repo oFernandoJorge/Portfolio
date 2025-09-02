@@ -56,7 +56,7 @@ export default function Portfolio() {
       github: "https://github.com/FJdevdev/Desafio-de-vaga-de-estagio",
     },
     {
-      title: "Landinfg Page Comercial",
+      title: "Landing Page Comercial",
       description:
         "Landing page comercial para uma empresa do meu pai, desenvolvida com TypeScript, Tailwind CSS, Next.js.",
       technologies: ["TypeScript", "Next.js", "Lucide React"],
