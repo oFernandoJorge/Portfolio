@@ -35,7 +35,7 @@ export default function Portfolio() {
   }
 
   const skills = {
-    backend: ["Java", "Spring Boot", "C#", ".NET", "SQL", "PostgreSQL", "MySQL"],
+    backend: ["Java", "Spring Boot", "Golang", "Gin", "SQL", "PostgreSQL", "MySQL"],
     frontend: ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Tailwind CSS"],
     tools: ["Git", "Docker", "Maven", "Visual Studio", "IntelliJ IDEA"],
   }
@@ -167,11 +167,11 @@ export default function Portfolio() {
                   <div className="flex space-x-4">
                     <Badge variant="secondary" className="text-sm">
                       <Database className="w-3 h-3 mr-1" />
-                      Back-end Specialist
+                      BACK-END
                     </Badge>
                     <Badge variant="secondary" className="text-sm">
                       <Globe className="w-3 h-3 mr-1" />
-                      Full-stack Ready
+                      FULL-STACK
                     </Badge>
                   </div>
                 </div>
