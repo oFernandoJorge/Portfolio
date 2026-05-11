@@ -63,7 +63,7 @@ http://localhost:3000
 
 ## 📁 Estrutura do Projeto
 
-\`\`\`
+```bash
 portfolio-dev/
 ├── app/
 │   ├── globals.css          # Estilos globais e tema
@@ -78,7 +78,8 @@ portfolio-dev/
 ├── next.config.js
 ├── tailwind.config.ts
 └── package.json
-\`\`\`
+```
+
 
 ## 🎨 Seções do Portfólio
 
